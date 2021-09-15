@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Abdullah Ramzan](mailto:abdullah.ramzan@owasp.org)
+* [Muhammad Ali Tariq](mailto:muhammad.alitariq@owasp.org)
