@@ -20,13 +20,13 @@ We welcome you to OWASP Lahore Chapter!
 
 ## Upcoming events
 
-Please join our [Meetup group]() to receive information about upcoming events.
+Please join our Meetup group to receive information about upcoming events.
 
 {% include chapter_events.html group=page.meetup-group %}
 
 We are at the moment working on making an online event in 2021. Please watch this webpage and our Twitter to get more info once we publish it!
 
-We announce events via our [Facebook page](https://www.facebook.com/owasplahore/) and publish them on our [Meetup](https://www.meetup.com/OWASP-Lahore-Chapter/).
+We announce events via our [Facebook page](https://www.facebook.com/owasplahore/) and publish them on our Meetup.
 
 OWASP Lahore
 -----------
