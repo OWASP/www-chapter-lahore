@@ -2,7 +2,7 @@
 
 ### Social Links
 
-* [Meetup]
+* Meetup
 * [WhatApp](https://chat.whatsapp.com/IZmxCVWsS13FjFqOlUihcb)
 * [Facebook](https://www.facebook.com/owasplahore/)
 
