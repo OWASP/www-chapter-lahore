@@ -6,7 +6,7 @@ site_side: true
 tags: lahore
 level: 3
 region: Asia
-meetup-group: 
+meetup-group: owasp-lahore-chapter
 country: Pakistan
 postal-code: 54000
 
