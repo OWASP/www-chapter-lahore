@@ -2,13 +2,10 @@
 
 layout: col-sidebar
 title: OWASP Lahore
-site_side: true
 tags: lahore
-level: 3
-region: Asia
+region: Asia 
 meetup-group: owasp-lahore-chapter
-country: Pakistan
-postal-code: 54000
+
 
 ---
 
@@ -21,8 +18,8 @@ We welcome you to OWASP Lahore Chapter!
 ## Upcoming events
 
 Please join our Meetup group to receive information about upcoming events.
-
 {% include chapter_events.html group=page.meetup-group %}
+
 
 We are at the moment working on making an online event in 2021. Please watch this webpage and our Twitter to get more info once we publish it!
 
