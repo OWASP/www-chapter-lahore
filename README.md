@@ -4,4 +4,4 @@
 
 We welcome all Pakistanis to join us and share the knowledge, skills, ideas related to OWASP Lahore Project to make it successful 🙂
 
-Feel free to reach out [Abdullah Ramzan](mailto:abdullah.ramzan@owasp.org) in case you have any questions/suggestions.
+Feel free to reach out [Abdullah Ramzan](mailto:abdullah.ramzan@owasp.org) & [SYED ASAD RAZA](mailto:syedasad.raza@owasp.org) in case you have any questions/suggestions.
