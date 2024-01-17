@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Lahore
 tags: lahore
 region: Asia 
+country: Pakistan
 meetup-group: owasp-lahore-chapter
 
 
