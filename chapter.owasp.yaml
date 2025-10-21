@@ -1,0 +1,27 @@
+leaders:
+  - name: Abdullah Ramzan
+    email: abdullah.ramzan@owasp.org
+    github: abdullah1908
+  - name: Muhammad Ali Tariq
+    email: muhammad.alitariq@owasp.org
+  - name: Syed Asad Raza
+    email: syedasad.raza@owasp.org
+    github: SyedAsadRazaDevops
+location:
+  country: Pakistan
+  country_code: PK
+  region: Punjab
+  city: Lahore
+  latitude: 31.5656822
+  longitude: 74.3141829
+meetup_group: owasp-lahore-chapter
+name: OWASP Lahore
+repositories:
+  - name: www-chapter-lahore
+    url: https://github.com/OWASP/www-chapter-lahore
+    description: OWASP Foundation Web Repository
+tags:
+  - lahore
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-lahore
