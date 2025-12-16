@@ -1,44 +1,122 @@
 ---
-
-layout: col-sidebar
 title: OWASP Lahore
-tags: lahore
-region: Asia 
+tags: Lahore
+region: Asia
 country: Pakistan
-meetup-group: owasp-lahore-chapter
+meetup-group: OWASP Lahore Community
+Organizer: Syed Asad Raza
+---
 
+## OWASP Lahore Chapter 🇵🇰
+
+### Building the Future of Application Security in Lahore
+
+Welcome to the **OWASP Lahore Chapter** — a community-driven initiative focused on **Application Security, Secure Software Development, and DevSecOps**.
+
+Our mission is to **educate, connect, and empower** developers, security professionals, students, and organizations across Lahore and Pakistan through **free, open, and vendor-neutral events**.
+
+Whether you are a **student, beginner, or experienced professional**, OWASP Lahore is your platform to **learn, share, and grow** in cybersecurity.
 
 ---
 
-### OWASP Lahore
+## 🔔 Upcoming Events
 
-### Welcome to OWASP Lahore Chapter
+Stay connected with our latest meetups, workshops, and talks.
 
-We welcome you to OWASP Lahore Chapter!
-
-## Upcoming events
-
-Please join our Meetup group to receive information about upcoming events.
 {% include chapter_events.html group=page.meetup-group %}
 
+👉 **Join our Meetup group** to receive updates and RSVP for events.
 
-We are at the moment working on making an online event in 2021. Please watch this webpage and our Twitter to get more info once we publish it!
+---
 
-We announce events via our [Facebook page](https://www.facebook.com/owasplahore/) and publish them on our Meetup.
+## 📅 Featured Upcoming Meetup (Month 1)
 
-OWASP Lahore
------------
-In past years we have organized many infosec meetings as a small group in coffee shops in Qatar and built a great community full of enuthusiastic members who are willing to share the knowledge towards the community. We were looking for a ways how to make it possible for you to meet more often than three times per year.
+### OWASP Lahore Meetup — Kickoff 2026
 
+**Topic:** OWASP Top 10 (2025) — Real-World Risks & Fixes  
+**Speaker:** Local AppSec Practitioner (To Be Announced)  
+**Date:** January 2026  
+**Time:** 6:00 PM – 8:00 PM  
+**Location:** Lahore (University / Tech Space)  
+**Format:** In-person + Networking  
+**Cost:** Free & Open for All  
 
-Call for Papers
-----------------
-Our CFP is always open. We love to give you an opportunity to speak at our Lahore OWASP chapter meetings. Do you have any interesting topic to speak about? Don't hesitate and send the description of your talk to our [Facebook account](https://www.facebook.com/owasplahore/) or by email to any of the Lahore OWASP Chapter Leaders, and we will reach back to you.
+💡 *Beginner-friendly | Practical | Lahore Tech Community*
 
-👋 A very warm welcome to everyone in [OWASP Lahore chapter](https://owasp.org/www-chapter-lahore/).
+> This meetup marks the revival and growth of the OWASP Lahore Chapter with a focus on **modern threats, real-world examples, and secure development practices**.
 
-We welcome all Pakistanis to join us and share the knowledge, skills, ideas related to OWASP Lahore Project to make it successful 🙂
+---
 
-Feel free to reach out [Abdullah Ramzan](mailto:abdullah.ramzan@owasp.org) in case you have any questions/suggestions.
+## 🌐 How We Share Updates
 
+We announce events and updates through:
 
+- 📌 **Meetup:** Primary event platform  
+- 📘 **Facebook:** [OWASP Lahore](https://www.facebook.com/owasplahore/)
+- 📘 **Linkedin:** [Offical OWASP Lahore]([https://www.facebook.com/owasplahore/](https://www.linkedin.com/company/owasplahore/)
+- 🌍 **OWASP Chapter Page:** Official announcements  
+
+Make sure to follow and subscribe so you don’t miss out.
+
+---
+
+## 🎯 What We Focus On
+
+Our sessions cover topics such as:
+
+- OWASP Top 10 & API Security
+- Secure Coding Practices
+- Web & Cloud Security
+- DevSecOps & CI/CD Security
+- AI Security & Emerging Threats
+- Bug Bounty & Ethical Hacking (Responsible Disclosure)
+
+All content is **vendor-neutral**, **community-driven**, and aligned with **OWASP values**.
+
+---
+
+## 🎤 Call for Speakers (CFP — Always Open)
+
+We are always excited to welcome **local speakers, students, and professionals** to share their knowledge.
+
+You can speak about:
+- Technical security topics
+- Case studies
+- Research
+- Tools & OWASP projects
+- Beginner-friendly learning sessions
+
+📩 Send your talk proposal via:
+- Email: syedasadrazadevops@gmail.com 
+- Or reach out to chapter leaders directly
+
+> First-time speakers are highly encouraged — we support you 💙
+
+---
+
+## 🤝 Community & Culture
+
+OWASP Lahore reflects the **energy, diversity, and ambition of Lahore’s tech ecosystem** — combining:
+- Strong security fundamentals
+- Practical learning
+- Open discussions
+- Friendly networking chai ☕ after sessions
+
+We believe **security should be accessible, inclusive, and fun**.
+
+---
+
+## 📬 Contact & Leadership
+
+For questions, ideas, sponsorships, or collaboration:
+
+📧 **Syed Asad Raza** —  
+[syedasad.raza@owasp.org](mailto:syedasad.raza@owasp.org)
+
+📧 **Abdullah Ramzan** —  
+[abdullah.ramzan@owasp.org](mailto:abdullah.ramzan@owasp.org)
+
+👋 A very warm welcome to everyone joining the  
+[OWASP Lahore Chapter](https://owasp.org/www-chapter-lahore/).
+
+Let’s build a **stronger, safer digital future for Pakistan — together** 🚀
