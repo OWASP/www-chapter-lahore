@@ -1,10 +1,10 @@
 ---
-layout: col-sidebar
 title: OWASP Lahore
-tags: lahore
+tags: Lahore
 region: Asia
 country: Pakistan
-meetup-group: owasp-lahore-chapter
+meetup-group: OWASP Lahore Community
+Organizer: Syed Asad Raza
 ---
 
 ## OWASP Lahore Chapter 🇵🇰
@@ -110,6 +110,8 @@ We believe **security should be accessible, inclusive, and fun**.
 
 For questions, ideas, sponsorships, or collaboration:
 
+📧 **Syed Asad Raza** —  
+[syedasad.raza@owasp.org](mailto:syedasad.raza@owasp.org)
 📧 **Abdullah Ramzan** —  
 [abdullah.ramzan@owasp.org](mailto:abdullah.ramzan@owasp.org)
 
