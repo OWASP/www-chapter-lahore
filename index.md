@@ -112,6 +112,7 @@ For questions, ideas, sponsorships, or collaboration:
 
 📧 **Syed Asad Raza** —  
 [syedasad.raza@owasp.org](mailto:syedasad.raza@owasp.org)
+
 📧 **Abdullah Ramzan** —  
 [abdullah.ramzan@owasp.org](mailto:abdullah.ramzan@owasp.org)
 
