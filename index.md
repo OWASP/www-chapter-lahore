@@ -7,10 +7,9 @@ country: Pakistan
 meetup-group: owasp-lahore-chapter
 ---
 
-## OWASP Lahore 🇵🇰
 ### Securing the Future of Software — Together
 
-![OWASP Lahore Banner](https://owasp.org/assets/images/web/owasp-banner.png)
+![OWASP Lahore Cover](/assets/images/owasp-lahore-cover.jpg)
 
 OWASP Lahore is an official local chapter of the **Open Worldwide Application Security Project (OWASP)**.
 
