@@ -1,11 +1,9 @@
 ---
 title: Example
 layout:  null
-tab: true
-order: 1
 tags: example-tag
 ---
 
 ## Example
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+This is an example tab file. You can use it as a template or remove it if not needed.

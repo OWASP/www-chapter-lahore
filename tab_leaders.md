@@ -1,12 +1,28 @@
 ---
 title: Leaders
 layout:  null
-tab: true
-order: 2
 tags: lahore
 ---
 
-## Leaders
+## Chapter Leadership Overview
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+OWASP Lahore is led by passionate volunteers from Pakistan's cybersecurity community who are committed to advancing application security education and awareness.
+
+### Leadership Structure
+
+**Chapter Leader:**
+- **Abdullah Ramzan** - abdullah.ramzan@owasp.org
+- **Syed Asad Raza** - syedasad.raza@owasp.org (Events & Community Manager)
+
+**Active Community Members:**
+- **Faiz Ahmed Zaidi** - Active OWASP community member
+
+### Get Involved
+
+Interested in joining the leadership team or becoming a volunteer? Contact us at:
+- 📧 Email: abdullah.ramzan@owasp.org
+- 📧 Email: syedasad.raza@owasp.org
+- 📱 [Meetup Group](https://www.meetup.com/owasp-lahore-chapter/)
+
+> OWASP chapters are run entirely by volunteers. We welcome passionate security professionals and students to contribute!
 
