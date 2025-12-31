@@ -1,6 +1,6 @@
 ---
 layout: col-sidebar
-title: Next Meeting
+title: NextMeeting
 tab: true
 order: 3
 tags: lahore

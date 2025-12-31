@@ -1,6 +1,6 @@
 ---
 layout: col-sidebar
-title: Collaboration & Services
+title: CollaborationServices
 tab: true
 order: 7
 tags: lahore
