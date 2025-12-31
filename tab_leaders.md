@@ -1,12 +1,12 @@
 ---
 title: Leaders
-layout: null
+layout:  null
 tab: true
 order: 2
 tags: lahore
 ---
 
-## Chapter Leadership
+## Leaders
 
-This tab displays information about OWASP Lahore chapter leaders and leadership team.
+Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
 
