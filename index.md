@@ -10,6 +10,8 @@ meetup-group: owasp-lahore-chapter
 ## OWASP Lahore 🇵🇰
 ### Securing the Future of Software — Together
 
+![OWASP Lahore Banner](https://owasp.org/assets/images/web/owasp-banner.png)
+
 OWASP Lahore is an official local chapter of the **Open Worldwide Application Security Project (OWASP)**.
 
 We focus on:
@@ -21,7 +23,7 @@ We focus on:
 
 🎉 **2026 marks OWASP's 25th Anniversary**, and Lahore proudly joins the global celebration.
 
-![OWASP Community](https://owasp.org/assets/images/owasp_logo.png)
+![OWASP 25th Anniversary](https://owasp.org/assets/images/web/owasp-25th-anniversary.png)
 
 ---
 
@@ -49,6 +51,8 @@ We focus on:
 ---
 
 ## 🌍 Join the Community
+![Community](https://owasp.org/assets/images/web/community.png)
+
 - [Meetup Group](https://www.meetup.com/owasp-lahore-chapter/) (Official)
 - [LinkedIn](https://www.linkedin.com/company/owasp-lahore/)
 - [Twitter/X](https://twitter.com/owasplahore)
