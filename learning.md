@@ -1,6 +1,6 @@
 ---
 layout: col-sidebar
-title: Learning & Certification
+title: LearningCertification
 tab: true
 order: 6
 tags: lahore
