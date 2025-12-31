@@ -29,12 +29,20 @@ OWASP Lahore is run by passionate volunteers from Pakistan's cybersecurity commu
 🏢 Security Architect at Systems Limited
 🎓 BS Computer Science, UET Lahore
 
-![Syed Asad Raza](https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=150&h=150&fit=crop&crop=face)
+![Syed Asad Raza](https://sessionize.com/image/bd53-400o400o2-nz9FixH2zCLSfruuUzMtJH.jpg)
 
-**Syed Asad Raza** - Events & Community Manager
-📧 syedasad.raza@owasp.org
-🏢 DevSecOps Engineer at NetSol Technologies
-🎓 MS Information Security, COMSATS
+**Syed Asad Raza** - Events & Community Manager  
+📧 syedasad.raza@owasp.org | syedasadrazadevops@gmail.com  
+📱 +92 307 4236362  
+🏢 Cloud and DevOps Engineer | Microsoft Certified Trainer  
+🎓 Presidential Initiative for Artificial Intelligence & Computing (2020-2022)  
+🌟 Microsoft Azure Security Engineer | Microsoft Azure Administrator Engineer  
+
+**Connect:**
+- 💼 [LinkedIn](https://www.linkedin.com/in/syedasadrazadevops)
+- 📝 [Dev.to](https://dev.to/syedasadrazadevops)
+- ✍️ [Medium](https://syedasadrazadevops.medium.com)
+- 🎤 [Sessionize](https://sessionize.com/syedasadrazadevops)
 
 ### Academic Liaisons
 ![Dr. Ayesha Malik](https://images.unsplash.com/photo-1494790108755-2616b612b786?w=120&h=120&fit=crop&crop=face) **Dr. Ayesha Malik** - LUMS University

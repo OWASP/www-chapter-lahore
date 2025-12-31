@@ -35,6 +35,16 @@ OWASP Lahore welcomes collaboration with companies, universities, and tech commu
 - **Expert Talks:** Industry professionals sharing real-world experiences
 - **Networking:** Connect with Lahore's security community
 
+### Our Partners
+
+**Company Partners:**
+- **Tkxel** - AI-powered software solutions and cloud engineering ([tkxel.com](https://tkxel.com/))
+- **Platform Expert** - Platform development and digital transformation consulting
+
+**Community Partners:**
+- **GDG Cloud Lahore** - Google Developer Group for cloud technologies
+- **Cloud Native Lahore** - CNCF community for cloud-native technologies
+
 ### Contact for Collaboration
 
 **Chapter Leaders:**
